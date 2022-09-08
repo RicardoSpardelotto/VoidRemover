@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
+  flutter_native_splash: ^2.0.5
   flutter_test:
     sdk: flutter
 
@@ -53,6 +54,11 @@ flutter_icons:
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
 
+
+flutter_native_splash:
+  image: assets/splash/splash.png
+  color: "#3d7c8c"
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -68,7 +74,8 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
-
+  assets:
+    - assets/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
