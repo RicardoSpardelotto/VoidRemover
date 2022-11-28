@@ -1,0 +1,10 @@
+{
+    "signup": "Inscrever-se",
+    "signin": "Entrar",
+    "enterusername": "Insira Nome",
+    "enteremailid": "Insira email",
+    "enterpassword": "Insira senha",
+    "donthaveaccount": "Não tem uma conta? ",
+    "forgotpassword": "Esqueceu senha?",
+    "resetpassword":"Restaurar senha"
+}

@@ -1,4 +1,4 @@
-package com.example.voidremover
+package br.edu.unoesc.pdm.voidremover
 
 import io.flutter.embedding.android.FlutterActivity
 
